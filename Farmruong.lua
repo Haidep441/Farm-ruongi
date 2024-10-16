@@ -195,7 +195,7 @@ function AllowRunServiceBind.OnInvoke(args)
 
     CoreGui:SetCore("SendNotification", {
 
-        Title = "Auto Farm Gương",
+        Title = "Auto Farm rương",
 
         Text = "By: Hải đẹp zai",
 
@@ -242,7 +242,7 @@ local CoreGui = game:GetService("StarterGui")
 
 CoreGui:SetCore("SendNotification", {
 
-    Title = "Auto Farm Gương",
+    Title = "Auto Farm rương",
 
     Text = "By: Hải đẹp zai",
 
